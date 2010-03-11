@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Debug-LTrace
-version:            0.01
+version:            0.02
 abstract:           Perl extension to locally trace subroutine calls
 author:
     - "koorchik" <"koorchik@cpan.org">
